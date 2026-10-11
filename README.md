@@ -5,7 +5,7 @@
 ## Установка
 
 ```sh
-git clone <url этого репо> ~/config
+git clone https://github.com/AmirPudge/teminal-startup ~/config
 ~/config/install.sh
 ```
 
