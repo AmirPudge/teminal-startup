@@ -1,0 +1,43 @@
+# Настроено по образцу ~/.config/alacritty/alacritty.toml
+
+# Шрифт
+font-family = "JetBrainsMono Nerd Font Mono"
+font-size = 15
+
+# Окно
+window-padding-x = 20
+window-padding-y = 20
+window-padding-balance = true
+background-opacity = 0.92
+background-blur = true
+
+# TERM как в Alacritty
+term = xterm-256color
+
+# Курсор
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+
+# Цвета Alacritty по умолчанию
+background = #181818
+foreground = #d8d8d8
+cursor-color = #d8d8d8
+selection-background = #d8d8d8
+selection-foreground = #181818
+palette = 0=#181818
+palette = 1=#ac4242
+palette = 2=#90a959
+palette = 3=#f4bf75
+palette = 4=#6a9fb5
+palette = 5=#aa759f
+palette = 6=#75b5aa
+palette = 7=#d8d8d8
+palette = 8=#6b6b6b
+palette = 9=#c55555
+palette = 10=#aac474
+palette = 11=#feca88
+palette = 12=#82b8c8
+palette = 13=#c28cb8
+palette = 14=#93d3c3
+palette = 15=#f8f8f8
